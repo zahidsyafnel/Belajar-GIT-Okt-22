@@ -1,0 +1,48 @@
+[33mcommit 2827f575c31379040d8b0722bb874e18d0b9ba2d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31mgithub/master[m[33m)[m
+Author: Zahid Syafnel <zahidsyafnel@gmail.com>
+Date:   Wed Oct 12 14:52:50 2022 +0700
+
+    melakukan revisi connect ke github
+
+[33mcommit 3433dd0c9c6815fa27258f3ab413f2029b9fe11f[m
+Merge: a09fef6 fbb3691
+Author: Zahid Syafnel <zahidsyafnel@gmail.com>
+Date:   Wed Oct 12 13:58:23 2022 +0700
+
+    konflik dari brach master dan fitur x solved
+
+[33mcommit a09fef696db6421401e67ea5392c029a240c1f5f[m
+Author: Zahid Syafnel <zahidsyafnel@gmail.com>
+Date:   Wed Oct 12 13:52:45 2022 +0700
+
+    ubah isi index.html dari master
+
+[33mcommit fbb36913f15f9ec951524b3d994a653d7031b903[m[33m ([m[1;32mfitur_x[m[33m)[m
+Author: Zahid Syafnel <zahidsyafnel@gmail.com>
+Date:   Wed Oct 12 13:50:16 2022 +0700
+
+    ubah isi index.html dari fitur x
+
+[33mcommit 252293e93807af50467f329b20649d76db3a110c[m[33m ([m[1;32mcheckout[m[33m)[m
+Author: Zahid Syafnel <zahidsyafnel@gmail.com>
+Date:   Wed Oct 12 13:21:25 2022 +0700
+
+    Perubahan tambahan dengan perubahan output
+
+[33mcommit 34dae4833cf042f99eabe724d8a1e14f19c7b01a[m
+Author: Zahid Syafnel <zahidsyafnel@gmail.com>
+Date:   Wed Oct 12 11:47:20 2022 +0700
+
+    Commit Ketiga dengan menambahkan page HTML
+
+[33mcommit 53ea5814d6a6ef353368acfc1f72bed0c2c6f8ea[m
+Author: Zahid Syafnel <zahidsyafnel@gmail.com>
+Date:   Wed Oct 12 11:40:52 2022 +0700
+
+    Commit Kedua
+
+[33mcommit c3b6ea405a0d4ff74beb4d6e827fcb5cc01cfe38[m
+Author: Zahid Syafnel <zahidsyafnel@gmail.com>
+Date:   Wed Oct 12 11:34:30 2022 +0700
+
+    commit pertama
